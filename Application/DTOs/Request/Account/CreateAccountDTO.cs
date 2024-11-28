@@ -6,8 +6,8 @@ namespace Application.DTOs.Request.Account
     {
         [Required]
         public string Name { get; set; } = string.Empty;
-        [Required, Compare(nameof(Password))]
 
+        [Required, Compare(nameof(Password))]//burda compare Password ve ConfirmPassword birbirine eşit mi onu kontrol eder
         public string ConfirmPassword { get; set; } = string.Empty;
 
         [Required]

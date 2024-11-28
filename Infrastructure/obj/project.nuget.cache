@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z2Ah9Ufxr1k=",
+  "dgSpecHash": "ypYgth+Sz2w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\firat\\source\\repos\\CleanArchitectureWithBalazor\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\firat\\source\\repos\\CleanArchitectureWithBlazor\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firat\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\firat\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

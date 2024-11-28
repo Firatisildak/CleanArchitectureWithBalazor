@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/yHc4GwtwEg=",
+  "dgSpecHash": "FHS1wR9jhxA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\firat\\source\\repos\\CleanArchitectureWithBalazor\\WebUI\\WebUI.csproj",
+  "projectFilePath": "C:\\Users\\firat\\source\\repos\\CleanArchitectureWithBlazor\\WebUI\\WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firat\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\firat\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",

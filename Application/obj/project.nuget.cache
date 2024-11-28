@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GFcSPSnbLig=",
+  "dgSpecHash": "PQsy8Fan/aA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\firat\\source\\repos\\CleanArchitectureWithBalazor\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\firat\\source\\repos\\CleanArchitectureWithBlazor\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firat\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.3\\microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
     "C:\\Users\\firat\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.3\\microsoft.aspnetcore.components.8.0.3.nupkg.sha512",

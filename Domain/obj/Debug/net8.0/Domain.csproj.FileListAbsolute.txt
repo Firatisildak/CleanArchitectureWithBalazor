@@ -10,3 +10,16 @@ C:\Users\firat\source\repos\CleanArchitectureWithBalazor\Domain\obj\Debug\net8.0
 C:\Users\firat\source\repos\CleanArchitectureWithBalazor\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\firat\source\repos\CleanArchitectureWithBalazor\Domain\obj\Debug\net8.0\ref\Domain.dll
 C:\Users\firat\source\repos\CleanArchitectureWithBalazor\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\firat\source\repos\CleanArchitectureWithBlazor\Domain\obj\Debug\net8.0\ref\Domain.dll
